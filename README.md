@@ -17,3 +17,4 @@ Materia: Programacion de Software
 3. `dotnet build`
 4. `dotnet test` (20 pruebas)
 5. `dotnet run --project Hotel.Presentacion`
+Integrante: Juan Manuel Ospina
